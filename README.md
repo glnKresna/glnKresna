@@ -2,6 +2,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdtdHB3ZGFqbmR3YmpsYXhkMjFjamR4b3JnMnV5bDA3azI0Z3p5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaS84bCnWzLZCBV2sN/giphy.gif" width="200"/>
 </div>
 
+</br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/galan-kresna-629a61315/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
