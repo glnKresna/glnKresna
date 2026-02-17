@@ -57,11 +57,14 @@
   <img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM Badge"/>
   <img src="https://img.shields.io/badge/Turbo-5CD8E5.svg?style=for-the-badge&logo=Turbo&logoColor=black" alt="Turbopack Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel Badge"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="Framer Badge"/>
 </div>
 
 ### <h2>📊 Stats : </h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glnKresna&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glnKresna&theme=transparent)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=glnKresna)](https://github.com/glnKresna/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-glnkresna.vercel.app/api?username=glnKresna&show_icons=true&theme=transparent)](https://github.com/glnKresna/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-glnkresna.vercel.app/api/top-langs/?username=glnKresna&layout=donut&theme=transparent)](https://github.com/glnKresna/github-readme-stats)
