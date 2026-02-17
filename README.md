@@ -62,4 +62,4 @@
 ### <h2>📊 Stats : </h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glnKresna&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glnKresna&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=glnKresna)](https://github.com/glnKresna/github-readme-stats)
